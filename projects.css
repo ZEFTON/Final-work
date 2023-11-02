@@ -1,0 +1,50 @@
+body{
+	background-color: white;
+}
+.logo{
+	text-align: center;
+
+}
+.logo img{
+	width: 10%;
+}
+nav{
+	text-align: center;
+	background-image: url(logo.png);
+	padding: 20px;
+}
+nav a{
+	text-decoration: none;
+	padding-right: 30px;
+	padding-left: 30px;
+	color: whitesmoke;
+}
+.six{
+	align-items: center;
+	justify-content: center;
+}
+
+.six img{
+	width: 900px;
+}
+footer{
+	font-weight: bold;
+	text-align: center;
+	background-color: dodgerblue;
+	padding: 20px;
+	tab-size: 130%;
+}
+.seven{
+	text-align: center;
+
+}
+.h1{
+	text-align: center;
+	font-size: 250%;
+	color: forestgreen;
+}
+.h3{
+	text-align: center;
+	font-size: 200%;
+	color: forestgreen;
+}
